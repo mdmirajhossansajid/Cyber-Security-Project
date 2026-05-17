@@ -1,0 +1,9 @@
+http.request.method == "POST"
+
+Base64 Encoding
+
+Right Click → Follow → TCP Stream
+
+Gratuitous ARP
+
+Follow TCP Stream
