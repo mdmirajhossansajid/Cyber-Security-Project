@@ -1,9 +1,5 @@
 # 🔐 Cyber Security Project
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mdmirajhossansajid/Cyber-Security-Project)
-![GitHub stars](https://img.shields.io/github/stars/mdmirajhossansajid/Cyber-Security-Project)
-![GitHub forks](https://img.shields.io/github/forks/mdmirajhossansajid/Cyber-Security-Project)
-![GitHub last commit](https://img.shields.io/github/last-commit/mdmirajhossansajid/Cyber-Security-Project)
 
 A professional cybersecurity learning project focused on ethical hacking fundamentals, network security, Linux operations, and security testing techniques.  
 This repository contains practical cybersecurity tasks, commands, and tools used for educational and research purposes.
@@ -106,18 +102,6 @@ Used to listen on a specific port for network communication testing.
 
 ---
 
-# 📸 Screenshots
-
-Add project screenshots inside the `screenshots` folder.
-
-Example:
-
-```md
-![Screenshot](screenshots/example.png)
-```
-
----
-
 # 🎯 Learning Objectives
 
 The main objectives of this project are:
@@ -137,12 +121,6 @@ It is intended to help learners understand cybersecurity concepts and practical 
 
 ---
 
-# ⚠️ Disclaimer
-
-This repository is strictly for educational and ethical learning purposes.  
-Unauthorized access, attacks, or misuse of security tools against real systems is illegal and unethical.
-
-Always perform testing in authorized environments only.
 
 ---
 
